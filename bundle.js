@@ -109,7 +109,6 @@ var data = [{
 }, {
   "data": {
     "id": "history",
-    "url": "https://taktaguri.com/"
   }
 }, {
   "data": {
